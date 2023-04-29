@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "428201334355",
+    "project_id": "century-de709",
+    "storage_bucket": "century-de709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428201334355:android:4e08978ce38c08f61118a6",
+        "android_client_info": {
+          "package_name": "com.u193301032.century"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428201334355-15862jgedpirfkj92mtdv85e8hfc4ok8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.u193301032.century",
+            "certificate_hash": "9eddcb885e1d5b2c0a6b0ffd64c2eb7bede77b3f"
+          }
+        },
+        {
+          "client_id": "428201334355-3l2hrnl71vuc82kivglvh12upp0cm4lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAukUOU-Cmnsh87Dw3zcoT7v4YbSbtq3tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428201334355-3l2hrnl71vuc82kivglvh12upp0cm4lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
